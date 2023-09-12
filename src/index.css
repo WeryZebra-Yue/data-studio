@@ -1,0 +1,14 @@
+/* include fonts from assets */
+@font-face {
+  font-family: "Gilroy Medium";
+  font-style: normal;
+  font-weight: 400;
+  src: url(./assets/font/Gilroy-Medium.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Gilroy Semibold";
+  font-style: normal;
+  font-weight: 600;
+  src: url(./assets/font/Gilroy-SemiBold.ttf) format("truetype");
+}

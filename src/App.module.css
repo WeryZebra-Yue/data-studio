@@ -1,0 +1,17 @@
+.header {
+  margin: 20px;
+}
+.header img {
+  width: 180px;
+}
+.chartsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-around;
+  align-items: center;
+  height: 80vh;
+}
+.charts {
+  margin-bottom: 30px;
+}
