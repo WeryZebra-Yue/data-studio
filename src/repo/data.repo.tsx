@@ -38,7 +38,7 @@ class dataRepo {
           )
             .toLocaleTimeString()
             .slice(3, 5),
-          distance: parseFloat(data["Distance Sensor"]["distance"])> 325?parseFloat(data["Distance Sensor"]["distance"]): 325,
+          distance: parseFloat(data["Distance Sensor"]["distance"])< 325?parseFloat(data["Distance Sensor"]["distance"]): 325,
         });
       if (
         new Date(

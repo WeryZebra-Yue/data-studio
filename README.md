@@ -1,5 +1,5 @@
 # Data Studio
-
+![WhatsApp Image 2025-04-14 at 20 54 23 (1)](https://github.com/user-attachments/assets/b35c555b-6568-48a6-b430-07a6fb154047)
 ![Screenshot 2023-09-13 at 12 19 49 AM](https://github.com/WeryZebra-Yue/data-studio/assets/75676675/b9a3dd3c-7210-446f-86ac-af809f85b1ec)
 ![Screenshot 2023-09-13 at 12 19 36 AM](https://github.com/WeryZebra-Yue/data-studio/assets/75676675/3afd817b-1278-426a-b0e9-a9aa5fd70ea9)
 ![Screenshot 2023-09-13 at 12 23 56 AM](https://github.com/WeryZebra-Yue/data-studio/assets/75676675/eb06bc80-f0ff-4f86-8287-c72ecd8f1917)
